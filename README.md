@@ -7,6 +7,7 @@ This program requires Instapy.
 ```
 pip install instapy
 ```
+You also need firefox.
 
 ### Installing
 
